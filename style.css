@@ -1,0 +1,368 @@
+element.style {
+    display: block;
+}
+html {
+    margin: 0pt;
+    padding: 0pt;
+    height: 100%;
+}
+html[Attributes Style] {
+    -webkit-locale: "en-US";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+element.style {
+}
+user agent stylesheet
+head {
+    display: none;
+}
+element.style {
+}
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    font-size: 0.9em;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #e0ddd8;
+    color: #000;
+    line-height: 1.30;
+    display: flex;
+    justify-content: center;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+element.style {
+}
+.page {
+    height: 100%;
+    width: 100%;
+    border: 0;
+    border-spacing: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+element.style {
+}
+.header {
+    height: 72px;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+    border-bottom: 9px solid #333;
+    flex-shrink: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+element.style {
+}
+div.stripe {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.ua-ad-block {
+    text-align: center;
+    align-items: center;
+    margin-top: -8px;
+    padding: 3px 0;
+    background: #fff;
+    border-bottom: 9px solid #333;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+element.style {
+}
+div.stripe {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.vcs-background {
+    background: #350f06 url(../images/image-vcs-ad.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+}
+div.stripe {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.colors-customers {
+    background: #f2f2f2;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+element.style {
+}
+div.stripe {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.services-bg-color {
+    background: #fff;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+element.style {
+}
+@media only screen and (max-width: 980px)
+div.stripe div.segment {
+    width: 86vw;
+    max-width: 80em;
+}
+    div.stripe div.segment {
+        width: 85vw;
+        max-width: 60em;
+        height: fit-content;
+    }
+    user agent stylesheet
+    div {
+        display: block;
+    }
+    element.style {
+    }
+    @media only screen and (max-width: 980px)
+    div.stripe div.segment .content-row {
+        flex-direction: column;
+    }
+        div.stripe div.segment .content-row {
+            display: flex;
+            justify-content: center;
+            padding: 0.5em 0;
+        }
+        user agent stylesheet
+        div {
+            display: block;
+        }
+        element.style {
+        }
+        @media only screen and (max-width: 980px)
+        div.stripe div.segment .content-row {
+            flex-direction: column;
+        }
+            div.stripe div.segment .content-row {
+                display: flex;
+                justify-content: center;
+                padding: 0.5em 0;
+            }
+            user agent stylesheet
+            div {
+                display: block;
+            }
+            element.style {
+            }
+            @media only screen and (max-width: 980px)
+            div.stripe div.segment .content-row {
+                flex-direction: column;
+            }
+                div.stripe div.segment .content-row {
+                    display: flex;
+                    justify-content: center;
+                    padding: 0.5em 0;
+                }
+                user agent stylesheet
+                div {
+                    display: block;
+                }
+                element.style {
+                }
+                @media only screen and (max-width: 980px)
+                div.stripe div.segment {
+                    width: 86vw;
+                    max-width: 80em;
+                }
+                    div.stripe div.segment {
+                        width: 85vw;
+                        max-width: 60em;
+                        height: fit-content;
+                    }
+                    user agent stylesheet
+                    div {
+                        display: block;
+                    }
+                    element.style {
+                    }
+                    @media only screen and (max-width: 980px)
+                    div.stripe div.segment {
+                        width: 86vw;
+                        max-width: 80em;
+                    }
+                        div.stripe div.segment {
+                            width: 85vw;
+                            max-width: 60em;
+                            height: fit-content;
+                        }
+                        user agent stylesheet
+                        div {
+                            display: block;
+                        }
+                        element.style {
+                        }
+                        div.stripe {
+                            width: 100%;
+                            display: flex;
+                            justify-content: center;
+                            flex-shrink: 0;
+                        }
+                        .colors-stat {
+                            background: #4e6a89;
+                            color: #fff;
+                        }
+                        user agent stylesheet
+                        div {
+                            display: block;
+                        }
+                        element.style {
+                        }
+                        div.stripe {
+                            width: 100%;
+                            display: flex;
+                            justify-content: center;
+                            flex-shrink: 0;
+                        }
+                        .colors-customers {
+                            background: #f2f2f2;
+                        }
+                        user agent stylesheet
+                        div {
+                            display: block;
+                        }
+                        element.style {
+                        }
+                        div.stripe {
+                            width: 100%;
+                            display: flex;
+                            justify-content: center;
+                            flex-shrink: 0;
+                        }
+                        .services-bg-color {
+                            background: #fff;
+                        }
+                        user agent stylesheet
+                        div {
+                            display: block;
+                        }
+                        element.style {
+                        }
+                        div.stripe {
+                            width: 100%;
+                            display: flex;
+                            justify-content: center;
+                            flex-shrink: 0;
+                        }
+                        .colors-stat {
+                            background: #4e6a89;
+                            color: #fff;
+                        }
+                        user agent stylesheet
+                        div {
+                            display: block;
+                        }
+                        element.style {
+                        }
+                        div.stripe {
+                            width: 100%;
+                            display: flex;
+                            justify-content: center;
+                            flex-shrink: 0;
+                        }
+                        .colors-copyright {
+                            background: #39516b;
+                            color: #000;
+                        }
+                        user agent stylesheet
+                        div {
+                            display: block;
+                        }
+                        element.style {
+                        }
+                        .page {
+                            height: 100%;
+                            width: 100%;
+                            border: 0;
+                            border-spacing: 0;
+                            display: flex;
+                            flex-direction: column;
+                            justify-content: flex-start;
+                        }
+                        user agent stylesheet
+                        div {
+                            display: block;
+                        }
+                        element.style {
+                        }
+                        user agent stylesheet
+                        script {
+                            display: none;
+                        }
+                        element.style {
+                        }
+                        body {
+                            padding: 0;
+                            margin: 0;
+                            height: 100%;
+                            font-size: 0.9em;
+                            font-family: Verdana, Arial, Helvetica, sans-serif;
+                            background-color: #e0ddd8;
+                            color: #000;
+                            line-height: 1.30;
+                            display: flex;
+                            justify-content: center;
+                        }
+                        element.style {
+                            display: block;
+                        }
+                        html {
+                            margin: 0pt;
+                            padding: 0pt;
+                            height: 100%;
+                        }
+                        html[Attributes Style] {
+                        -webkit-locale: "en-US";
+                    }
+                        user agent stylesheet
+                        :root {
+                            view-transition-name: root;
+                        }
+                        user agent stylesheet
+                        html {
+                            display: block;
+                        }
